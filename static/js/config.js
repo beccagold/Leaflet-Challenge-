@@ -1,0 +1,2 @@
+//API Key
+const queryAPI = "pk.eyJ1IjoiYmVjY2Fnb2xkIiwiYSI6ImNrMHJkbGVyNDA1Nm0zbnBzMzdvdTlpYW8ifQ.VZHFPPexOVU9wpGUMibFEQ.eyJ1IjoiYmVjY2Fnb2xkIiwiYSI6ImNrMHJjd3hrczAzb2UzbW8ycmJ0Y2xiZWkifQ.pvoaZ_kPmfVkj4yJQAf6uQ";
